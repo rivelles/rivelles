@@ -9,7 +9,7 @@ I like writing small articles, you can check my latest ones [here](https://dev.t
   <a href="https://www.linkedin.com/in/lucas-rivelles"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<hr/>
+<hr />
 
 <details>
   <summary><h3>:computer: &nbsp;Main interests</h3></summary>
@@ -36,5 +36,7 @@ I like writing small articles, you can check my latest ones [here](https://dev.t
   <li><a href="https://dev.to/rivelles/document-analysis-in-elasticsearch-1hhn">Document Analysis in Elasticsearch</a></li>
   <li><a href="https://dev.to/rivelles/elasticsearch-object-and-nested-data-types-11oe">Elasticsearch: Object and Nested Data Types</a></li>
   <li><a href="https://dev.to/rivelles/elasticsearch-the-keyword-data-type-2bd7">Elasticsearch: The keyword data type</a></li>
+
+<hr />
 
 ![Lucas' GitHub trophies](https://github-profile-trophy.vercel.app/?username=rivelles)
