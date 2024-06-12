@@ -33,6 +33,7 @@ I like writing small articles, you can check my latest ones [here](https://dev.t
 </details>
 
 <h3>📖 Check my latest articles:</h3>
+  <li><a href="https://dev.to/rivelles/database-isolation-levels-a-practical-guide-5fdc">Database Isolation Levels: A Practical Guide</a></li>
   <li><a href="https://dev.to/rivelles/document-analysis-in-elasticsearch-1hhn">Document Analysis in Elasticsearch</a></li>
   <li><a href="https://dev.to/rivelles/elasticsearch-object-and-nested-data-types-11oe">Elasticsearch: Object and Nested Data Types</a></li>
   <li><a href="https://dev.to/rivelles/elasticsearch-the-keyword-data-type-2bd7">Elasticsearch: The keyword data type</a></li>
